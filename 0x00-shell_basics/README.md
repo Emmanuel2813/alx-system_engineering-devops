@@ -6,4 +6,5 @@ hidden files
 i love numbers
 welcome
 betty in my first repository
-bye bye betty 
+bye bye betty
+Bye bye My first directory 
