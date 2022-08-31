@@ -5,3 +5,6 @@ the long format
 hidden files
 i love numbers
 welcome 
+mkdir tmp
+cd tmp
+mkdir my_first_directory
