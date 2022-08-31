@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -u *.HTML ADVANCE
+cp -un *.html ../
