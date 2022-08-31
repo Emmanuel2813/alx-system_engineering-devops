@@ -5,4 +5,5 @@ the long format
 hidden files
 i love numbers
 welcome
-betty in my first repository 
+betty in my first repository
+bye bye betty 
